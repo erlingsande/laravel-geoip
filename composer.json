@@ -1,5 +1,5 @@
 {
-  "name": "torann/geoip",
+  "name": "erlingsande/geoip",
   "description": "Support for multiple GeoIP services.",
   "keywords": [
     "laravel",
